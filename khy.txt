@@ -1,17 +1,9 @@
-헹
-끼얏호우
-
-
-강희영 업데이트
-
-
-jfskdjfksdf
-
+강희영
 total 13
 -rw-r--r-- 1 MIT13 197121  42 May 21 16:31 README.md
 -rw-r--r-- 1 MIT13 197121 375 May 21 16:52 cyh.txt
 drwxr-xr-x 1 MIT13 197121   0 May 21 16:40 html/
--rw-r--r-- 1 MIT13 197121  66 May 21 16:41 jjw.txt
+-rw-r--r-- 1 MIT13 197121 433 May 21 16:53 jjw.txt
 -rw-r--r-- 1 MIT13 197121  10 May 21 16:31 khy.txt
 -rw-r--r-- 1 MIT13 197121  37 May 21 16:36 les.txt
 drwxr-xr-x 1 MIT13 197121   0 May 21 16:51 test100/
