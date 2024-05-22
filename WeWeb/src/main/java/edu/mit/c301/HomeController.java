@@ -36,6 +36,10 @@ public class HomeController {
 		return "home";
 	}
 	
+	@RequestMapping(value="/cjw")
+	public void cjw() {
+		
+	}
 	@RequestMapping("/les")
 	public void les() {
 		
@@ -44,8 +48,13 @@ public class HomeController {
 	public void cbj() {
 		
 	}
+
 	@RequestMapping("/khy")
 	public void khy() {
+	}
+	@RequestMapping("/knh")
+	public void knh() {
+
 		
 	}
 }
