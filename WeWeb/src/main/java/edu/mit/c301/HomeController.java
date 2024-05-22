@@ -36,4 +36,8 @@ public class HomeController {
 		return "home";
 	}
 	
+	@RequestMapping("/les")
+	public void les() {
+		
+	}
 }
