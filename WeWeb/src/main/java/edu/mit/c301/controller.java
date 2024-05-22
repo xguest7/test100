@@ -10,4 +10,7 @@ public class controller {
 	public void quiz() {
 		
 	}
+	
+	@RequestMapping("jjw")
+	public void jjw() { }
 }
