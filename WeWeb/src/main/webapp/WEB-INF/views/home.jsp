@@ -19,7 +19,7 @@
 <a href="les">이은선</a>
 <a href="gyj">곽종연</a>
 <a href="knh">김나현</a>
-<a href="gjy">곽종연</a>
+<a href="gjy">곽종연(수정)</a>
 
 </body>
 </html>
