@@ -10,6 +10,7 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<a href="cbj">최병준</a>
+<a href="cbj">ìµë³ì¤</a>
+<a href="jyh">장여닝</a>
 </body>
 </html>
