@@ -40,4 +40,10 @@ public class HomeController {
 	public void les() {
 		
 	}
+	
+	@RequestMapping("/cyh")
+	public void cyh() {
+		
+	}
+	
 }
