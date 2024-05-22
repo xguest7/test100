@@ -36,6 +36,10 @@ public class HomeController {
 		return "home";
 	}
 	
+	@RequestMapping(value="/cjw")
+	public void cjw() {
+		
+	}
 	@RequestMapping("/les")
 	public void les() {
 		
