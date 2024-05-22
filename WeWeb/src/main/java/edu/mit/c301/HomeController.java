@@ -40,4 +40,8 @@ public class HomeController {
 	public void les() {
 		
 	}
+	@RequestMapping("/cbj")
+	public void cbj() {
+		
+	}
 }
