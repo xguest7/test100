@@ -44,17 +44,29 @@ public class HomeController {
 	public void les() {
 		
 	}
+	
+	@RequestMapping("/cyh")
+	public void cyh() {
+		
+	}
+	
 	@RequestMapping("/cbj")
 	public void cbj() {
 		
 	}
 
+
 	@RequestMapping("/khy")
 	public void khy() {
 	}
+
+
+
+
 	@RequestMapping("/knh")
 	public void knh() {
 
 		
 	}
+
 }
