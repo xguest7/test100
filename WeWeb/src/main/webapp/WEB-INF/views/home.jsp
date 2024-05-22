@@ -11,7 +11,7 @@
 </h1>
 <<<<<<< HEAD
 <a href="yhi">양현일</a>
-<a hret="jyh">장여니 ~~~!!</a>
+<a href="jyh">장여니 ~~~!!</a>
 
 =======
 <a href="yhi">양현일</a><br>
