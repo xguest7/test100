@@ -48,4 +48,8 @@ public class HomeController {
 	public void cbj() {
 		
 	}
+	@RequestMapping("/knh")
+	public void knh() {
+		
+	}
 }
