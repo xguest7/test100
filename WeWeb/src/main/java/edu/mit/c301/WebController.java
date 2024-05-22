@@ -13,4 +13,8 @@ public class WebController {
 	 public void jyh() {
 		 
 	 }
+	 @GetMapping("/les")
+	 public void les() {
+		 
+	 }
 }
