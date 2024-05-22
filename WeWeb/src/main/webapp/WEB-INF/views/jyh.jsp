@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	양현일 성공입니다.
-	최병준 성공입니다.
+	장여니 성공입니다.
 </body>
 </html>
