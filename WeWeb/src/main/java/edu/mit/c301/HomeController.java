@@ -36,13 +36,10 @@ public class HomeController {
 		return "home";
 	}
 	
-<<<<<<< HEAD
 	@RequestMapping(value="/cjw")
 	public void cjw() {
 		
 	}
-	
-=======
 	@RequestMapping("/les")
 	public void les() {
 		
@@ -51,5 +48,4 @@ public class HomeController {
 	public void cbj() {
 		
 	}
->>>>>>> branch 'main' of https://github.com/xguest7/test100.git
 }
