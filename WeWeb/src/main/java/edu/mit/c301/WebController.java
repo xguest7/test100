@@ -9,4 +9,8 @@ public class WebController {
 	 public void yhi() {
 		 
 	 }
+	 @GetMapping("/jyh")
+	 public void jyh() {
+		 
+	 }
 }
