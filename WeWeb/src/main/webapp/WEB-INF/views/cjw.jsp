@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>git test jsp</title>
+<title>Insert title here</title>
 </head>
 <body>
-	최영호 성공입니다. 
+최지우 성공이당
 </body>
 </html>
