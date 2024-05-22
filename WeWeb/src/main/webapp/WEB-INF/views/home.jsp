@@ -17,7 +17,6 @@
 <a href="cbj">최병준</a>
 <a href="jyh">장여니</a>
 <a href="les">이은선</a>
-<a href="jjw">정지원</a>
-<a href="gyj">곽종연</a>
+<a href="gjy">곽종연</a>
 </body>
 </html>
