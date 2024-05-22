@@ -61,5 +61,9 @@ public class HomeController {
 	public void knh() {
 		
 	}
+	@RequestMapping("/ysh")
+	public void ysh() {
+		
+	}
 
 }
