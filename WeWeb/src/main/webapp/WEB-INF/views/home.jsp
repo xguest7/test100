@@ -9,9 +9,11 @@
 <h1>
 	Hello world!  
 </h1>
-<a href="yhi">양현일</a>
+<a href="yhi">양현일</a><br>
+<a href="cjw">최지우</a>
 
 <P>  The time on the server is ${serverTime}. </P>
+
 
 </body>
 </html>
